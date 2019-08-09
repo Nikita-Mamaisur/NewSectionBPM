@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "340d4625-b1a4-420b-83ac-5ec65477be5e",
+    "Name": "UsrDirectoryFrenq",
+    "ModifiedOnUtc": "\/Date(1565174892000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Периодичность изданий",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d407b49d-f06d-4e70-b2cc-590bc3d60105",
+    "Name": "UsrPeriodicals1Page",
+    "ModifiedOnUtc": "\/Date(1565347300000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Периодические издания\""
+  }
+}

@@ -1,0 +1,20 @@
+﻿{
+  "Descriptor": {
+    "UId": "ee2b99dc-cec9-4853-8df4-365c64628496",
+    "Name": "FrequencyOfPublications",
+    "ModifiedOnUtc": "\/Date(1565162907000)\/",
+    "Maintainer": "Nikitam",
+    "DependsOn": [
+      {
+        "UId": "0ece3a34-413f-415b-919b-7b29bb31701f",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_Obsolete"
+      },
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}

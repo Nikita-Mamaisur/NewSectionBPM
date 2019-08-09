@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3fd319e1-75f9-4e07-8b38-1748d83e2db8",
+    "Name": "UsrSchema3Detail",
+    "ModifiedOnUtc": "\/Date(1565178824000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Деталь периодичности изданий\"",
+    "DependsOn": []
+  }
+}

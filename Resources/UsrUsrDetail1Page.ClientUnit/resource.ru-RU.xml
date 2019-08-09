@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Карточка схемы: &quot;Деталь&quot;" />
+			<Item Name="LocalizableStrings.Tab4a4fa113TabLabelGroup8e52a23dGroupCaption.Value" Value="Настройки связей" />
+			<Item Name="LocalizableStrings.Tab4a4fa113TabLabelTabCaption.Value" Value="Настройки" />
+		</Items>
+	</Group>
+</Resources>

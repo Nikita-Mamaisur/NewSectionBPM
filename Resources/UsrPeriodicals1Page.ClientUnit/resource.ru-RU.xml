@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Периодические издания&quot;" />
+			<Item Name="LocalizableStrings.actionButtonAddDetail.Value" Value="Добавить деталь" />
+			<Item Name="LocalizableStrings.Tab4e591691TabLabelGroupbfafad6fGroupCaption.Value" Value="Ответственный/комментарий" />
+			<Item Name="LocalizableStrings.Tab4e591691TabLabelTabCaption.Value" Value="ответственный" />
+			<Item Name="LocalizableStrings.Tabe08074a4TabLabelGroupd76bea76GroupCaption.Value" Value="издания" />
+			<Item Name="LocalizableStrings.Tabe08074a4TabLabelTabCaption.Value" Value="Общее" />
+		</Items>
+	</Group>
+</Resources>
